@@ -17,5 +17,7 @@
 
 ---
 
+## 🚀 Live Demo
 
+🔗 **[View Live Demo](https://lavina-e-commerce-platform--jahanvibagjani2.replit.app/)**
 
